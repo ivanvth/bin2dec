@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace bin2dec;
+
+public class Program {
+    static void Main(string[] args)
+    {
+        foreach (string s in args) {
+            System.Console.WriteLine(Bin2dec.Convert(s));
+        } 
+    }
+}

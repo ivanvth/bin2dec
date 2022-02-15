@@ -1,0 +1,15 @@
+C:\Users\ivt44\KU\SU\self\bin2dec\bin\Debug\net6.0\bin2dec.exe
+C:\Users\ivt44\KU\SU\self\bin2dec\bin\Debug\net6.0\bin2dec.deps.json
+C:\Users\ivt44\KU\SU\self\bin2dec\bin\Debug\net6.0\bin2dec.runtimeconfig.json
+C:\Users\ivt44\KU\SU\self\bin2dec\bin\Debug\net6.0\bin2dec.dll
+C:\Users\ivt44\KU\SU\self\bin2dec\bin\Debug\net6.0\ref\bin2dec.dll
+C:\Users\ivt44\KU\SU\self\bin2dec\bin\Debug\net6.0\bin2dec.pdb
+C:\Users\ivt44\KU\SU\self\bin2dec\obj\Debug\net6.0\bin2dec.csproj.AssemblyReference.cache
+C:\Users\ivt44\KU\SU\self\bin2dec\obj\Debug\net6.0\bin2dec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivt44\KU\SU\self\bin2dec\obj\Debug\net6.0\bin2dec.AssemblyInfoInputs.cache
+C:\Users\ivt44\KU\SU\self\bin2dec\obj\Debug\net6.0\bin2dec.AssemblyInfo.cs
+C:\Users\ivt44\KU\SU\self\bin2dec\obj\Debug\net6.0\bin2dec.csproj.CoreCompileInputs.cache
+C:\Users\ivt44\KU\SU\self\bin2dec\obj\Debug\net6.0\bin2dec.dll
+C:\Users\ivt44\KU\SU\self\bin2dec\obj\Debug\net6.0\ref\bin2dec.dll
+C:\Users\ivt44\KU\SU\self\bin2dec\obj\Debug\net6.0\bin2dec.pdb
+C:\Users\ivt44\KU\SU\self\bin2dec\obj\Debug\net6.0\bin2dec.genruntimeconfig.cache
