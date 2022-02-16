@@ -9,7 +9,7 @@ namespace bin2dec
                     case '0':   break;
                     case '1':   sum += ConvertN(bin.Length-i-1);
                                 break;
-                    default:    return -1;  
+                    default:    throw new ArgumentOutOfRangeException("That is not a binary number.");  
                 }
             }
             return sum;
