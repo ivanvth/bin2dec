@@ -12,7 +12,7 @@ namespace bin2dec {
             }
             return sum;
         }
-
+        
         private static int ConvertN(int pos) {
             return (int) (Math.Pow(2, pos));
         }
