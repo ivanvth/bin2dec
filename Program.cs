@@ -4,7 +4,7 @@ public class Program {
     static void Main(string[] args)
     {
         foreach (string s in args) {
-            System.Console.WriteLine(Bin2dec.Convert(s));
+            System.Console.WriteLine(s + ": " + Bin2dec.Convert(s));
         } 
     }
 }
