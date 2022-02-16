@@ -5,9 +5,10 @@ public class Program {
         foreach (string s in args) {
             try {
                 System.Console.WriteLine(s + ": " + Bin2dec.Convert(s));
-            } catch (Exception e) {
+            }
+            catch (Exception e) {
                 System.Console.WriteLine(s + ": " + e.Message);
             }
-        } 
+        }
     }
 }
